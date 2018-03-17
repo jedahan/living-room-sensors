@@ -1,6 +1,6 @@
 [submodule "yoloSensor"]
 	path = yoloSensor
-	url = git@github.com:jedahan/yoloSensor
+	url = https://github.com/jedahan/yoloSensor
 [submodule "colorTracker"]
 	path = colorTracker
-	url = git@github.com:jedahan/colorTracker
+	url = https://github.com/jedahan/colorTracker
